@@ -3,7 +3,7 @@
 Offical implementation of the NeurIPS 2023 paper: *[Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2306.17203v1)*.
 
 
-Project Page: https://diff-foley.github.io
+Project Page: [Google Collab ](https://colab.research.google.com/drive/1tw-9zbS9ww_H1YeYL26owKw5TXptjWmg?usp=sharing)
 
 
 ## To-Do:
